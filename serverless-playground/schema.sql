@@ -1,7 +1,0 @@
-CREATE TABLE IF NOT EXISTS feedback (
-  id TEXT PRIMARY KEY,
-  name TEXT NOT NULL,
-  message TEXT NOT NULL,
-  status TEXT DEFAULT 'pending',
-  created_at DATETIME DEFAULT CURRENT_TIMESTAMP
-);

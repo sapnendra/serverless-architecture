@@ -33,7 +33,7 @@ http://localhost:8787
 
 **Production:**
 ```
-https://serverless-playground.<your-subdomain>.workers.dev
+https://serverless-playground.business-sapnendra29.workers.dev
 ```
 
 ## Authentication
